@@ -3,3 +3,5 @@ openai
 unstructured
 faiss-cpu
 gradio
+python-dotenv
+tiktoken
